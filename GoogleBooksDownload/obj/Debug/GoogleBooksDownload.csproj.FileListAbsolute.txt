@@ -1,0 +1,15 @@
+E:\books\网络爬虫\HTTP Programming Recipes for C# Bots\CSharpHTTPRecipes\CSharpHTTPRecipes\HTTPRecipes\GoogleBooksDownload\bin\Debug\GoogleBooksDownload.exe.config
+E:\books\网络爬虫\HTTP Programming Recipes for C# Bots\CSharpHTTPRecipes\CSharpHTTPRecipes\HTTPRecipes\GoogleBooksDownload\bin\Debug\GoogleBooksDownload.exe
+E:\books\网络爬虫\HTTP Programming Recipes for C# Bots\CSharpHTTPRecipes\CSharpHTTPRecipes\HTTPRecipes\GoogleBooksDownload\bin\Debug\GoogleBooksDownload.pdb
+E:\books\网络爬虫\HTTP Programming Recipes for C# Bots\CSharpHTTPRecipes\CSharpHTTPRecipes\HTTPRecipes\GoogleBooksDownload\bin\Debug\Newtonsoft.Json.dll
+E:\books\网络爬虫\HTTP Programming Recipes for C# Bots\CSharpHTTPRecipes\CSharpHTTPRecipes\HTTPRecipes\GoogleBooksDownload\bin\Debug\Newtonsoft.Json.xml
+E:\books\网络爬虫\HTTP Programming Recipes for C# Bots\CSharpHTTPRecipes\CSharpHTTPRecipes\HTTPRecipes\GoogleBooksDownload\obj\Debug\GoogleBooksDownload.exe
+E:\books\网络爬虫\HTTP Programming Recipes for C# Bots\CSharpHTTPRecipes\CSharpHTTPRecipes\HTTPRecipes\GoogleBooksDownload\obj\Debug\GoogleBooksDownload.pdb
+E:\books\网络爬虫\HTTP Programming Recipes for C# Bots\CSharpHTTPRecipes\CSharpHTTPRecipes\HTTPRecipes\GoogleBooksDownload\obj\Debug\GoogleBooksDownload.csprojResolveAssemblyReference.cache
+E:\Projects\GoogleBooksDownload\bin\Debug\GoogleBooksDownload.exe.config
+E:\Projects\GoogleBooksDownload\bin\Debug\GoogleBooksDownload.exe
+E:\Projects\GoogleBooksDownload\bin\Debug\GoogleBooksDownload.pdb
+E:\Projects\GoogleBooksDownload\obj\Debug\GoogleBooksDownload.exe
+E:\Projects\GoogleBooksDownload\obj\Debug\GoogleBooksDownload.pdb
+E:\Projects\GoogleBooksDownload\obj\Debug\GoogleBooksDownload.csprojResolveAssemblyReference.cache
+E:\Projects\GoogleBooksDownload\bin\Debug\Newtonsoft.Json.dll
